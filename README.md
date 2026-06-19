@@ -1,6 +1,6 @@
-# CS50 SQL Solutions
+# Harvard CS50 SQL Solutions
 
-This repository contains my solutions and query logs from Harvard's CS50 SQL course.
+This repository contains my solutions and query logs from Harvard University's CS50 SQL course.
 
 ## About
 
